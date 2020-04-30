@@ -1,16 +1,16 @@
 .footer{
   text-align: center;
-  background-color: #2c2b2b;
+  background-color: #183049;
   padding: 60px;
 }
 
 .links {
-  display: block;
+  display: inline-block;
 }
 
 .footer a {
   font-size: 30px;
-  color: #1EDD88;
+  color: #AFD2E4;
 }
 
 .footer p{
